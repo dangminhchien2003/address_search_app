@@ -1,16 +1,30 @@
+
 # address_search_app
 
-A new Flutter project.
+Đây là dự án Flutter dùng để tìm kiếm địa chỉ.
 
-## Getting Started
+## Bắt đầu
 
-This project is a starting point for a Flutter application.
+Dự án này là điểm khởi đầu cho một ứng dụng Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+### Cách chạy dự án
+1. Cài đặt [Flutter](https://flutter.dev/docs/get-started/install) trên máy của bạn.
+2. Mở terminal và chuyển đến thư mục dự án:
+	```
+	cd address_search_app
+	```
+3. Cài đặt các package cần thiết:
+	```
+	flutter pub get
+	```
+4. Chạy ứng dụng:
+	```
+	flutter run
+	```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tài nguyên tham khảo
+- [Hướng dẫn viết ứng dụng Flutter đầu tiên](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Các ví dụ Flutter hữu ích](https://docs.flutter.dev/cookbook)
+- [Tài liệu chính thức Flutter](https://docs.flutter.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nếu bạn gặp khó khăn khi phát triển với Flutter, hãy tham khảo tài liệu chính thức để được hướng dẫn, ví dụ, và tham khảo API đầy đủ.
