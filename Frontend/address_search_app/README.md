@@ -21,7 +21,9 @@ Dự án này là điểm khởi đầu cho một ứng dụng Flutter.
 	```
 	flutter run
 	```
-
+## Link video
+   https://youtu.be/Gu0Pz538NqA
+   
 ## Tài nguyên tham khảo
 - [Hướng dẫn viết ứng dụng Flutter đầu tiên](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Các ví dụ Flutter hữu ích](https://docs.flutter.dev/cookbook)
